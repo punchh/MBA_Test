@@ -1,0 +1,21 @@
+"","rules","support","confidence","lift","count"
+"1","{LPAN Papas Fav} => {2Soda}",0.00133155792276964,1,9.3875,2
+"3","{Paparoni} => {Choc Chip Dough}",0.00133155792276964,1,11.9206349206349,2
+"24","{2Soda,LG Thick Crust} => {Murph Combo}",0.00133155792276964,1,12.728813559322,2
+"25","{Chk Bcn Art Sal,Murph Combo} => {2Soda}",0.00133155792276964,1,9.3875,2
+"26","{2Soda,Chk Bcn Art Sal} => {Murph Combo}",0.00133155792276964,1,12.728813559322,2
+"27","{Chk Bcn Art Sal,Murph Combo} => {Pepperoni}",0.00133155792276964,1,6.18106995884774,2
+"29","{Chk Bcn Art Sal,Choc Chip Dough} => {Pepperoni}",0.00133155792276964,1,6.18106995884774,2
+"31","{2Soda,Chk Bcn Art Sal} => {Pepperoni}",0.00133155792276964,1,6.18106995884774,2
+"35","{Cheese,Murph Combo} => {Pepperoni}",0.00133155792276964,1,6.18106995884774,2
+"42","{FTN Chk Bcn Art,Hawaiian} => {Chz5 Brd W/Mar}",0.00133155792276964,1,14.7254901960784,2
+"44","{2Soda,FTN Chk Bcn Art} => {Chz5 Brd W/Mar}",0.00133155792276964,1,14.7254901960784,2
+"47","{FTN Chk Bcn Art,Hawaiian} => {2Soda}",0.00133155792276964,1,9.3875,2
+"48","{2Soda,FTN Chk Bcn Art} => {Hawaiian}",0.00133155792276964,1,12.3114754098361,2
+"49","{Chk Caesar Sal,Smore Dsrt Piz} => {Cheesy Bread}",0.00133155792276964,1,18.775,2
+"67","{Chz5 Brd W/Mar,LTN Hrb Chk Med} => {Cowboy}",0.00133155792276964,1,6.05645161290323,2
+"91","{20Oz Soda,Chkn Garlic} => {Chz5 Brd W/Mar}",0.00133155792276964,1,14.7254901960784,2
+"99","{CYO,Garden Salad} => {Pepperoni}",0.00133155792276964,1,6.18106995884774,2
+"145","{2Soda,Chk Bcn Art Sal,Murph Combo} => {Pepperoni}",0.00133155792276964,1,6.18106995884774,2
+"146","{Chk Bcn Art Sal,Murph Combo,Pepperoni} => {2Soda}",0.00133155792276964,1,9.3875,2
+"147","{2Soda,Chk Bcn Art Sal,Pepperoni} => {Murph Combo}",0.00133155792276964,1,12.728813559322,2
